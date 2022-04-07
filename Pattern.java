@@ -4,6 +4,7 @@ public class Pattern {
 	
 	public static void main(String[] args) {
 		
+		//pattern 1
 		for(int i=1;i<=10;i++){
 			for(int j=1;j<=i;j++){
 				int num=1;
@@ -13,6 +14,7 @@ public class Pattern {
 			System.out.println();
 	    }
 	
+		//pattern 2
 		System.out.println();
 		
 		 int i,j;
