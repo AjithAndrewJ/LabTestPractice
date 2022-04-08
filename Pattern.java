@@ -25,14 +25,14 @@ public class Pattern {
 		      if(j<=i)
 		        System.out.print(j);
 		      else
-		        System.out.print(" ");
+		        System.out.print("*");
 		    }
 		    for(j=4;j>=1;j--)
 		    {
 		      if(j<=i)
 		        System.out.print(j);
 		      else
-		        System.out.print(" ");
+		        System.out.print("*");
 		    }
 		    System.out.println();
 		  }
